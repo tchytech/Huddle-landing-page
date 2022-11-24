@@ -59,6 +59,11 @@ button{
     height: 40px;
     margin-top: 40px;
 }
+button:hover{
+    background-color: var(--light);
+    color: var(--white);
+    cursor: pointer;
+}
 .social-icons{
     margin-left: 75rem;
 }
